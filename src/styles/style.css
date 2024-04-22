@@ -258,22 +258,7 @@ select {
   padding: 0 10px;
   line-height: 50px;
 }
-.aside .logo a::before {
-  content: "";
-  height: 20px;
-  width: 20px;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-.aside .logo a::after {
-  content: "";
-  height: 20px;
-  width: 20px;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-}
+
 .aside .logo a img {
   width: 100%;
 }
