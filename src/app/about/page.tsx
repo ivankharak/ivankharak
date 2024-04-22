@@ -30,11 +30,11 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="personal-info padd-15">
                   <div className="row">
-                    <div className="info-item padd-15">
+                    {/* <div className="info-item padd-15">
                       <p>
                         Website : <span>www.urfolio.vercel.app</span>
                       </p>
-                    </div>
+                    </div> */}
                     <div className="info-item padd-15">
                       <p>
                         Email : <span>ivankharak@gmail.com</span>
