@@ -274,6 +274,9 @@ select {
   bottom: 0;
   right: 0;
 }
+.aside .logo a img {
+  width: 100%;
+}
 .aside .nav-toggler {
   height: 40px;
   width: 45px;

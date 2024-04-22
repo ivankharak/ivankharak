@@ -24,7 +24,11 @@ const Sidebar = () => {
       <div className="aside-inner">
         <div className="logo">
           <Link href="/" onClick={handleClose}>
-            Logo
+            <img
+              src="/imgs/logo.png"
+              alt="logo"
+              className="shadow-dark"
+            />
           </Link>
         </div>
         <ul className="nav">
