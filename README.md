@@ -2,18 +2,14 @@
 <h2 align="center">Senior Python Full-Stack Developer</h2>
 <br>
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&show=prs_merged&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ivankharak&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
 <a href=#><img src="contributions.svg"></a>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
-</p>
 <p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
 <p style="font-size:24px">
  Python Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
