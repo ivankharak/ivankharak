@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to My Github!</h1>
 <h2 align="center">Senior Python Full-Stack Developer</h2>
 <br>
-<p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
-<p>
- Python Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
-</p>
-<br>
-
-<h1 align="center"></h1>
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
@@ -21,6 +14,13 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
 </p>
+<p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
+<p>
+ Python Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
+</p>
+<br>
+
+<h1 align="center"></h1>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
