@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, Welcome to My Github!</h1>
-<h2 align="center">Senior Python Full-Stack Developer</h2>
+<h1 align="center">Hi 👋, I'm Ivan, Welcome to My Github!</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Senior%20Web%20%20Python%20Developer;Passionate%20Developer;Specialized%20in%20Django%20and%20Typescript;React,%20Vue,%20Next.js%20for%20the%20Front-End;Python,%20Node.js%20for%20the%20Back-End;Always%20learning%20new%20things.&center=true&width=500&height=50">
+  </a>
+</p>
 <br>
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&show=prs_merged&rank_icon=github&include_all_commits=true&card_width=150" />
