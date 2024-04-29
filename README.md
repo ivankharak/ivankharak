@@ -5,16 +5,24 @@
   </a>
 </p>
 <br>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&show=prs_merged&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ivankharak&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ivankharak&theme=radical&row=2&hide=Stars" />
-</a>
-<a href=#><img src="contributions.svg"></a>
+<p align="center">
+  <a href="#">
+    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&show=prs_merged&rank_icon=github&include_all_commits=true&card_width=150" />
+  </a>
+  <a href="#">
+    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ivankharak&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  </a>
+</p>
+<p align="center"> 
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=ivankharak&theme=radical&rows=2&column=5"/>
+  </a> 
+</p>
+<p align="center">
+  <a href=#>
+    <img src="contributions.svg">
+  </a>
+</p>
 
 <p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
 <p style="font-size:24px">
