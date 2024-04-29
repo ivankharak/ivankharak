@@ -47,12 +47,12 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Phone : <span>+381 (111)422-1585</span>
+                        Phone : <span>+44 700-766-4850</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        City : <span>Belgrade</span>
+                        City : <span>RadStock</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">

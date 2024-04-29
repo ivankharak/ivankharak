@@ -17,7 +17,7 @@ const Contact: NextPage = () => {
                 <i className="fa fa-map-marker" />
               </div>
               <h4>Address</h4>
-              <p>Belgrade, Serbia</p>
+              <p>RadStock, England, UK</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
