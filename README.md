@@ -12,7 +12,7 @@
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ivankharak&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=2&column=5" />
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ivankharak&theme=radical&row=2&hide=Stars" />
 </a>
 <a href=#><img src="contributions.svg"></a>
 
