@@ -25,7 +25,7 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<p><img align="right" width="25%" src="javascript.gif" alt="hacker" /></p>
+![hacker](javascript.gif){: width="25%" align="right"}
 
 ###
  Python Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
@@ -161,6 +161,7 @@
   </a>
 </p>
 <div align="center">
-    <h1 font-weight="bold">Thanks for visiting~~~ <img src="unicorn.webp" alt="Unicorn Image" style="border-radius: 30%;" width="90"></h1>
+    <h1 font-weight="bold">Thanks for visiting~~~</h1>
 </div>
+
 ![Unicorn Image](unicorn.webp){: style="border-radius: 30%; width: 90px;"}
