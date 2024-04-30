@@ -9,6 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ivankharak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
   </a> 
 </p>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="center">
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&show=prs_merged&rank_icon=github&include_all_commits=true&card_width=150" />
@@ -17,19 +18,14 @@
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ivankharak&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
   </a>
 </p>
-<p align="center">
-  <a href=#>
-    <img src="contributions.svg">
-  </a>
-</p>
-
-<p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<p><img align="right" width="25%" src="javascript.gif" alt="hacker" /></p>
 <p style="font-size:24px">
  Python Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
 </p>
 <br>
 <!-- This is test -->
-<h1 align="center"></h1>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
@@ -65,3 +61,12 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<p align="center">
+  <a href=#>
+    <img src="contributions.svg">
+  </a>
+</p>
+<div align="center">
+    <h1 font-weight="bold">Thanks for visiting~~~ <img src="unicorn.webp" style="border-radius: 30%" width="90"></h1>
+</div>
