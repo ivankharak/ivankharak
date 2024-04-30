@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 <h1 align="center">Hi <img src="Hi.gif" width="30px">I'm Ivan, <b>Welcome to My Github!</b></h1>
 
 <div align="center">
@@ -12,8 +14,6 @@
   </a> 
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
 <div align="center">
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&show=prs_merged&rank_icon=github&include_all_commits=true&card_width=150" />
@@ -25,7 +25,7 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-![hacker](javascript.gif){: width="25%" align="right"}
+## <picture><img src="javascript.gif" width = 250px align="right"></picture>
 
 ###
  Python Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
@@ -160,8 +160,7 @@
     <img src="contributions.svg">
   </a>
 </p>
-<div align="center">
-    <h1 font-weight="bold">Thanks for visiting~~~</h1>
-</div>
 
-![Unicorn Image](unicorn.webp){: style="border-radius: 30%; width: 90px;"}
+<div align="center"><h1 font-weight="bold">Thanks for visiting~~~</h1></div>
+
+<div align="center"><img class="unicorn" src="unicorn.webp" width = 100px></div>
