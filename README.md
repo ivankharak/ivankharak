@@ -1,29 +1,36 @@
-<h1 align="center">Hi 👋, I'm Ivan, Welcome to My Github!</h1>
-<p align="center">
+<h1 align="center">Hi <img src="Hi.gif" width="30px">I'm Ivan, <b>Welcome to My Github!</b></h1>
+
+<div align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Senior%20Web%20%20Python%20Developer;Passionate%20Developer;Specialized%20in%20Django%20and%20Typescript;React,%20Vue,%20Next.js%20for%20the%20Front-End;Python,%20Node.js%20for%20the%20Back-End;Always%20learning%20new%20things.&center=true&width=500&height=50">
   </a>
-</p>
-<p align="center"> 
+</div>
+
+<div align="center"> 
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=ivankharak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
   </a> 
-</p>
+</div>
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<p align="center">
+
+<div align="center">
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&show=prs_merged&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ivankharak&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
   </a>
-</p>
+</div>
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 <p><img align="right" width="25%" src="javascript.gif" alt="hacker" /></p>
-<p style="font-size:24px">
+
+###
  Python Full Stack Developer with 8 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
-</p>
-<br>
+
+
 <!-- This is test -->
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
@@ -156,3 +163,4 @@
 <div align="center">
     <h1 font-weight="bold">Thanks for visiting~~~ <img src="unicorn.webp" alt="Unicorn Image" style="border-radius: 30%;" width="90"></h1>
 </div>
+![Unicorn Image](unicorn.webp){: style="border-radius: 30%; width: 90px;"}
