@@ -26,7 +26,7 @@ const Contact: NextPage = () => {
                 <i className="fa fa-phone" />
               </div>
               <h4>Call Us On</h4>
-              <p>+1 802-265-2069</p>
+              <p>+1 (619) 483-0971</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}

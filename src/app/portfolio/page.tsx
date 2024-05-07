@@ -10,7 +10,7 @@ const Portfolio: NextPage = () => {
               <h2>Portfolio</h2>
             </div>
           </div>
-          <div className="row">
+          {/* <div className="row">
             <div className="portfolio-filter padd-15">
               <button type="button" className="active" data-filter="all">
                 All
@@ -25,7 +25,7 @@ const Portfolio: NextPage = () => {
                 Wordpress
               </button>
             </div>
-          </div>
+          </div> */}
           <div className="row">
             {/* Portfolio Item */}
             <div className="portfolio-item padd-15" data-category="web-design">
