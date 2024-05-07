@@ -161,6 +161,6 @@
   </a>
 </p>
 
-<div align="center"><h1 font-weight="bold">Thanks for visiting~~~</h1></div>
+<div align="center"><h1 font-weight="bold">Thanks for visiting~~~🎁</h1></div>
 
-<div align="center"><img class="unicorn" src="unicorn.webp" width = 120px></div>
+<div align="center"><img class="unicorn" src="unicorn.webp" width = 200px></div>
