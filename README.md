@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Senior%20Web%20%20Python%20Developer;Passionate%20Developer;Specialized%20in%20Django%20and%20Typescript;React,%20Vue,%20Next.js%20for%20the%20Front-End;Python,%20Node.js%20for%20the%20Back-End;Always%20learning%20new%20things.&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Python%20Full-Stack+Developer;Senior%20%20Python%20Developer;Passionate%20Developer;Specialized%20in%20Django%20and%20Typescript;React,%20Vue,%20Next.js%20for%20the%20Front-End;Python,%20Node.js%20for%20the%20Back-End;Always%20learning%20new%20things.&center=true&width=500&height=50">
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="#">
-    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&show=prs_merged&rank_icon=github&include_all_commits=true&card_width=150" />
+    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ivankharak&show_icons=true&theme=radical&hide=issues&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ivankharak&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
