@@ -47,12 +47,12 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Phone : <span>+1 (619) 483-0971</span>
+                        Phone : <span>+46 091-4852991</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        City : <span>North Hampton</span>
+                        City : <span>Holm</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -126,7 +126,7 @@ const About: NextPage = () => {
                             <i className="fa fa-calendar" /> 2011 to 2015
                           </h6>
                           <h4 className="timeline-title">
-                            University of Dayton
+                            University of Gothenburg
                           </h4>
                           <p className="timeline-text">
                             Bachelor of Science in Computer Science

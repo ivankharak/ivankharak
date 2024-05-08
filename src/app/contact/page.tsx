@@ -17,7 +17,7 @@ const Contact: NextPage = () => {
                 <i className="fa fa-map-marker" />
               </div>
               <h4>Address</h4>
-              <p>North Hampton, US</p>
+              <p>Holm, Sweden</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
@@ -26,7 +26,7 @@ const Contact: NextPage = () => {
                 <i className="fa fa-phone" />
               </div>
               <h4>Call Us On</h4>
-              <p>+1 (619) 483-0971</p>
+              <p>+46 091-4852991</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
