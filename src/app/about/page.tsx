@@ -126,7 +126,7 @@ const About: NextPage = () => {
                             <i className="fa fa-calendar" /> 2011 to 2015
                           </h6>
                           <h4 className="timeline-title">
-                            University of Gothenburg
+                            Stockholm University
                           </h4>
                           <p className="timeline-text">
                             Bachelor of Science in Computer Science
