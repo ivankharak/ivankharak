@@ -15,10 +15,10 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Ivan Kharak a <span>Django Full Stack Developer</span>
+                    I am Ivan Kharak a <span>Django Full Stack Engineer</span>
                   </h2>
                   <p>
-                    Hi! My name is Ivan Kharak. I am a Django Full Stack Developer, and I am
+                    Hi! My name is Ivan Kharak. I am a Django Full Stack Engineer, and I am
                     very passionate and dedicated to my work. With 9 years
                     experience as a your expertise, I have acquired the skills and
                     knowledge necessary to make your project a success. I enjoy
@@ -182,7 +182,7 @@ const About: NextPage = () => {
                           <h6 className="timeline-date">
                             <i className="fa fa-calendar" /> February 2022 to Present
                           </h6>
-                          <h4 className="timeline-title">MedEvolve | Senior Python Developer</h4>
+                          <h4 className="timeline-title">MedEvolve | Senior Python Engineer</h4>
                           <p className="timeline-text">
                             • Led the development of a scalable web application
                               increasing user capacity by 40% and significantly
@@ -202,7 +202,7 @@ const About: NextPage = () => {
                           <h6 className="timeline-date">
                             <i className="fa fa-calendar" /> August 2020 to February 2022
                           </h6>
-                          <h4 className="timeline-title">Qian | Full Stack Developer</h4>
+                          <h4 className="timeline-title">Qian | Full Stack Engineer</h4>
                           <p className="timeline-text">
                             • Created over 50 JSX components that were reusable
                               and contributed to a 20% increase in development

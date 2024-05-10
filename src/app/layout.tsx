@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Ivan Kharakashyan",
-  description: "Django Full Stack Developer",
+  description: "Django Full Stack Engineer",
 };
 
 export default function RootLayout({

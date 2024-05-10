@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Python%20Full-Stack+Developer;Senior%20%20Python%20Developer;Passionate%20Developer;Specialized%20in%20Django%20and%20Typescript;React,%20Vue,%20Next.js%20for%20the%20Front-End;Python,%20Node.js%20for%20the%20Back-End;Always%20learning%20new%20things.&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Python%20Full-Stack+Engineer;Senior%20%20Python%20Engineer;Passionate%20Engineer;Specialized%20in%20Django%20and%20Typescript;React,%20Vue,%20Next.js%20for%20the%20Front-End;Python,%20Node.js%20for%20the%20Back-End;Always%20learning%20new%20things.&center=true&width=500&height=50">
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 ## <picture><img src="javascript.gif" width = 250px align="right"></picture>
 
 ###
- Python Full Stack Developer with 9 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
+ Python Full Stack Engineer with 9 years of hands-on experience designing, developing and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles. Achieved significant increases in user engagement, revenue, and application functionality, while reducing development time and improving overall code quality. Here is my other programming skills...💕
 
 
 <!-- This is test -->
