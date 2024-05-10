@@ -85,29 +85,29 @@ const About: NextPage = () => {
                     <div className="skill-item padd-15">
                       <h5>Python</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "90%" }} />
-                        <div className="skill-percent">90%</div>
+                        <div className="progress-in" style={{ width: "95%" }} />
+                        <div className="skill-percent">95%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
                       <h5>Django</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "80%" }} />
-                        <div className="skill-percent">80%</div>
+                        <div className="progress-in" style={{ width: "90%" }} />
+                        <div className="skill-percent">90%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
                       <h5>FastAPI</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "70%" }} />
-                        <div className="skill-percent">80%</div>
+                        <div className="progress-in" style={{ width: "85%" }} />
+                        <div className="skill-percent">85%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
                       <h5>React</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "80%" }} />
-                        <div className="skill-percent">80%</div>
+                        <div className="progress-in" style={{ width: "90%" }} />
+                        <div className="skill-percent">90%</div>
                       </div>
                     </div>
                   </div>
