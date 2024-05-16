@@ -45,14 +45,6 @@ const Sidebar = () => {
               <i className="fa fa-user" /> About
             </Link>
           </li>
-          {/* <li onClick={handleClose}>
-            <Link
-              href="/services"
-              className={`${pathUrl == "/services" && "active"}`}
-            >
-              <i className="fa fa-list" /> Services
-            </Link>
-          </li> */}
           <li onClick={handleClose}>
             <Link
               href="/portfolio"
@@ -68,6 +60,14 @@ const Sidebar = () => {
           </li> */}
           <li onClick={handleClose}>
             <Link
+              href="/services"
+              className={`${pathUrl == "/services" && "active"}`}
+            >
+              <i className="fa fa-list" /> Reviews
+            </Link>
+          </li>
+          <li onClick={handleClose}>
+            <Link
               href="/contact"
               className={`${pathUrl == "/contact" && "active"}`}
             >
@@ -78,7 +78,7 @@ const Sidebar = () => {
         <div className="copyright">
           Created with ❤️ By{" "}
           <a href="http://ivankharak.com" target="_blank" rel="noopener noreferrer">
-            Ivan K
+            Ivan Kharak
           </a>
         </div>
       </div>
