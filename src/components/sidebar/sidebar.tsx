@@ -23,7 +23,7 @@ const Sidebar = () => {
       </div>
       <div className="aside-inner">
         <div className="logo">
-          <Link href="/" onClick={handleClose}>
+          <Link href="https://www.su.se/cmlink/stockholm-university" onClick={handleClose}>
             <img
               src="/imgs/logo.png"
               alt="logo"
