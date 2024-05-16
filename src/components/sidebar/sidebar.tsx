@@ -77,7 +77,7 @@ const Sidebar = () => {
         </ul>
         <div className="copyright">
           Created with ❤️ By{" "}
-          <a href="http://ivankharak.com" target="_blank" rel="noopener noreferrer">
+          <a href="/" target="_blank" rel="noopener noreferrer">
             Ivan
           </a>
         </div>
