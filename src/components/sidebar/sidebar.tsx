@@ -76,7 +76,7 @@ const Sidebar = () => {
           </li>
         </ul>
         <div className="copyright">
-          Created with ❤️ By{" "}
+          Created with 🦄 By{" "}
           <a href="/" target="_blank" rel="noopener noreferrer">
             Ivan
           </a>
