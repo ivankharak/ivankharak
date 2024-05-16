@@ -15,10 +15,10 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Ivan Kharak a <span>Django Full Stack Engineer</span>
+                    I am Ivan Kharak a <span>Python Full Stack Engineer</span>
                   </h2>
                   <p>
-                    Hi! My name is Ivan Kharak. I am a Django Full Stack Engineer, and I am
+                    Hi! My name is Ivan Kharak. I am a Python Full Stack Engineer, and I am
                     very passionate and dedicated to my work. With 9 years
                     experience as a your expertise, I have acquired the skills and
                     knowledge necessary to make your project a success. I enjoy
@@ -184,13 +184,16 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title">MedEvolve | Senior Python Engineer</h4>
                           <p className="timeline-text">
-                            • Led the development of a scalable web application
-                              increasing user capacity by 40% and significantly
-                              enhancing the customer experience.
+                            • Orchestrated collaborative efforts with Agile teams to conceptualize, design, and
+                              deploy innovative web applications across E-Commerce, Banking, and Healthcare
+                              sectors, resulting in a 40% boost in user engagement and a 25% increase in
+                              conversion rates.
                               <br></br>
-                            • Executed end-to-end software development lifecycle
-                              with precision, delivering stable releases and
-                              achieving a 99.9% uptime for critical applications.
+                              <br></br>
+                            • Guided and instructed junior developers on industry best practices for writing
+                              maintainable and scalable code during meticulous code reviews; led to a 40%
+                              increase in code quality and a 25% reduction in technical debt within the TypeScript
+                              codebase.
                               <br></br>
                               ...
                           </p>
@@ -204,9 +207,10 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title">Qian | Full Stack Engineer</h4>
                           <p className="timeline-text">
-                            • Created over 50 JSX components that were reusable
-                              and contributed to a 20% increase in development
-                              speed for future projects.
+                            • Built a serverless API using Node.js and AWS Lambda functions that connects a web
+                              application to a third-party service, such as SendGrid, to send email or SMS
+                              notifications
+                              <br></br>
                               <br></br>
                             • Developed progressive web apps with React,
                               enhancing mobile user engagement by more than 50%.
@@ -227,6 +231,7 @@ const About: NextPage = () => {
                             using Django, which successfully managed the
                             workflow for a team of 20+ content creators.
                             <br></br>
+                            <br></br>
                             • Implemented a new scoring algorithm for
                             educational assessments that increased the accuracy
                             of results by 15%
@@ -243,6 +248,9 @@ const About: NextPage = () => {
                           <p className="timeline-text">
                             • Worked various Django projects along with HTML,
                             CSS, JavaScript, Bootstrap
+                            <br></br>
+                            <br></br>
+                            • Improved the user experience by implementing infinite scrolling, and smooth animations  
                           </p>
                         </div>
                         {/* Timeline Item end */}

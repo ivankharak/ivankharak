@@ -11,8 +11,8 @@ export default async function Home() {
               alt="Ivan Kharak Profile"
               className="shadow-dark"
             />
-            <h1>Ivan Kharak</h1>
-            <p>Django Full Stack Engineer</p>
+            <h1>Ivan Kharakhashyan</h1>
+            <p>Python Full Stack Engineer</p>
             <div className="social-links">
               {/* <a href="https://twitter.com/" target="_blank">
                 <i className="fa fa-twitter" />
