@@ -39,7 +39,7 @@ const Portfolio: NextPage = () => {
     },
     {
       image: "/imgs/portfolio/5.jpg",
-      title: "ORION Trading Terminal (React, Node, DeFi)",
+      title: "ORION Trading Terminal (React, Django, Node, DeFi)",
       description: "Develop and maintain high-performance, scalable, and user-friendly trading terminal for ORION.",
       skills: ["React", "Django", "Defi", "Node.js"],
       demoLink: "https://trade.orion.xyz/"
