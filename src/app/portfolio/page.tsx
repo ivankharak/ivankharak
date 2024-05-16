@@ -11,14 +11,14 @@ const Portfolio: NextPage = () => {
   const portfolioItems = [
     {
       image: "/imgs/portfolio/1.jpg",
-      title: "AtHotel (NextJS, Node, Python, AI)",
+      title: "AtHotel (NextJS, Node, Python, AI, Django)",
       description: "I successfully tackled significant challenges as a Full Stack and AI Developer. I developed a sophisticated AI-driven algorithm to enhance user interfaces and streamline content curation, enabling global scalability and improving user engagement. My expertise in React was pivotal in building responsive and dynamic user interfaces that are both efficient and scalable.",
       skills: ["React", "Next.js", "Django", "Node.js", "Python", "Artificial Intelligence"],
       demoLink: "https://athotel.com/"
     },
     {
       image: "/imgs/portfolio/2.jpg",
-      title: "BURROW (B2C Ecommerce, React, NextJS, GraphQL)",
+      title: "BURROW (B2C Ecommerce, React, Django, GraphQL)",
       description: "I contributed to developing this web platform that connects families caring for elder individuals with senior care professionals and provides guidance throughout the journey.",
       skills: ["React", "Next.js", "Node.js", "Python", "Django", "HIPAA"],
       demoLink: "https://olera.care/"
