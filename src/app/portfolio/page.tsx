@@ -13,7 +13,7 @@ const Portfolio: NextPage = () => {
       image: "/imgs/portfolio/1.jpg",
       title: "AtHotel (NextJS, Node, Python, AI)",
       description: "I successfully tackled significant challenges as a Full Stack and AI Developer. I developed a sophisticated AI-driven algorithm to enhance user interfaces and streamline content curation, enabling global scalability and improving user engagement. My expertise in React was pivotal in building responsive and dynamic user interfaces that are both efficient and scalable.",
-      skills: ["React", "Next.js", "Node.js", "Python", "Artificial Intelligence"],
+      skills: ["React", "Next.js", "Django", "Node.js", "Python", "Artificial Intelligence"],
       demoLink: "https://athotel.com/"
     },
     {
@@ -41,7 +41,7 @@ const Portfolio: NextPage = () => {
       image: "/imgs/portfolio/5.jpg",
       title: "ORION Trading Terminal (React, Node, DeFi)",
       description: "Develop and maintain high-performance, scalable, and user-friendly trading terminal for ORION.",
-      skills: ["React", "Defi", "Node.js"],
+      skills: ["React", "Django", "Defi", "Node.js"],
       demoLink: "https://trade.orion.xyz/"
     },
     {
