@@ -15,10 +15,10 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Ivan Kharak a <span>Python Full Stack Engineer</span>
+                    I am Ivan Kharakhashyan a <span>Python Full Stack Engineer</span>
                   </h2>
                   <p>
-                    Hi! My name is Ivan Kharak. I am a Python Full Stack Engineer, and I am
+                    Hi! My name is Ivan Kharakhashyan. I am a Python Full Stack Engineer, and I am
                     very passionate and dedicated to my work. With 9 years
                     experience as a your expertise, I have acquired the skills and
                     knowledge necessary to make your project a success. I enjoy
@@ -71,7 +71,7 @@ const About: NextPage = () => {
                         Download CV
                       </a>
                       <a
-                        href="#contact"
+                        href="contact"
                         data-section-index={0}
                         className="btn hire-me"
                       >

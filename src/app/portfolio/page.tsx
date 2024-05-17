@@ -11,16 +11,16 @@ const Portfolio: NextPage = () => {
   const portfolioItems = [
     {
       image: "/imgs/portfolio/1.jpg",
-      title: "AtHotel (NextJS, Node, Python, AI, Django)",
+      title: "AtHotel",
       description: "I successfully tackled significant challenges as a Full Stack and AI Developer. I developed a sophisticated AI-driven algorithm to enhance user interfaces and streamline content curation, enabling global scalability and improving user engagement. My expertise in React was pivotal in building responsive and dynamic user interfaces that are both efficient and scalable.",
-      skills: ["React", "Next.js", "Django", "Node.js", "Python", "Artificial Intelligence"],
+      skills: ["React", "Next.js", "Django", "Python", "Artificial Intelligence"],
       demoLink: "https://athotel.com/"
     },
     {
       image: "/imgs/portfolio/2.jpg",
-      title: "BURROW (B2C Ecommerce, React, Django, GraphQL)",
+      title: "BURROW",
       description: "I contributed to developing this web platform that connects families caring for elder individuals with senior care professionals and provides guidance throughout the journey.",
-      skills: ["React", "Next.js", "Node.js", "Python", "Django", "HIPAA"],
+      skills: ["React", "Next.js", "Python", "Django", "HIPAA"],
       demoLink: "https://olera.care/"
     },
     {
@@ -32,16 +32,16 @@ const Portfolio: NextPage = () => {
     },
     {
       image: "/imgs/portfolio/4.jpg",
-      title: "Roomster, Real Estate, React, Flask, Airbnb-like, GIS",
+      title: "Roomster - Real Estate",
       description: "Roomster is an Airbnb-like social platform for people around the world who are looking for roommates to live with. It has 5+ million active listings in different countries all over the world and 3+ million active users every month. It has a website built with Python/Flask, and React.",
       skills: ["React", "Typescript", "Flask", "Python", "SQLAlchemy", "Celery", "RabbitMQ", "Amazon Web Services", "Kubernetes", "Next.js", "RESTful API", "Socket.io", "Jest", "Mapbox", "GIS"],
       demoLink: "https://www.roomster.com/"
     },
     {
       image: "/imgs/portfolio/5.jpg",
-      title: "ORION Trading Terminal (React, Django, Node, DeFi)",
+      title: "ORION Trading Terminal",
       description: "Develop and maintain high-performance, scalable, and user-friendly trading terminal for ORION.",
-      skills: ["React", "Django", "Defi", "Node.js"],
+      skills: ["React", "Defi", "Node.js"],
       demoLink: "https://trade.orion.xyz/"
     },
     {

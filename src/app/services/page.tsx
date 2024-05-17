@@ -23,7 +23,7 @@ const Service: NextPage = () => {
             <div className="service-item padd-15">
               <div className="service-item-inner">
                 <img src="/imgs/2.webp" className="rounded-image" style={{ borderRadius: '50%' }}/>
-                <p>&quot;I was in a rush and Mark Ivan was VERY fast. The work was excellent. Change requests were handled quickly. Communication was clear, friendly, and professional.&quot;</p>
+                <p>&quot;I was in a rush and Ivan was VERY fast. The work was excellent. Change requests were handled quickly. Communication was clear, friendly, and professional.&quot;</p>
                 <br></br>
                 <h3>Marko Bejat</h3>
                 <h5>Director at Qian</h5>
@@ -33,8 +33,8 @@ const Service: NextPage = () => {
               <div className="service-item-inner">
                 <img src="/imgs/3.webp" className="rounded-image" style={{ borderRadius: '50%' }}/>
                 {/* <div className="icon"><i className="fa fa-wordpress" /></div> */}
-                <p>&quot;Harness the power of WordPress for your website. Our experts will build a feature-rich and scalable
-                  WordPress site that empowers you to manage content effortlessly and stay ahead in the digital
+                <p>&quot;Harness the power of Django for your website. Our experts will build a feature-rich and scalable
+                  Django site that empowers you to manage content effortlessly and stay ahead in the digital
                   landscape.&quot;</p>
                   <br></br>
                 <h3>Mary T. Angelina</h3>
