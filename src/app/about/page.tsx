@@ -123,7 +123,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2005 to 2009
+                            <i className="fa fa-calendar" /> 2010 to 2014
                           </h6>
                           <h4 className="timeline-title">
                             Stockholm University
@@ -180,7 +180,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> June 2018 to Present
+                            <i className="fa fa-calendar" /> June 2020 to Present
                           </h6>
                           <h4 className="timeline-title">Peiko | Senior Python Engineer</h4>
                           <p className="timeline-text">
@@ -201,7 +201,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> June 2012 to February 2018
+                            <i className="fa fa-calendar" /> June 2017 to February 2020
                           </h6>
                           <h4 className="timeline-title">Qian | Python Engineer</h4>
                           <p className="timeline-text">
@@ -221,7 +221,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> August 2009 to March 2012
+                            <i className="fa fa-calendar" /> August 2014 to March 2017
                           </h6>
                           <h4 className="timeline-title">Toptal Freelancer | Full Stack Developer</h4>
                           <p className="timeline-text">
