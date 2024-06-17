@@ -123,7 +123,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2011 to 2015
+                            <i className="fa fa-calendar" /> 2005 to 2009
                           </h6>
                           <h4 className="timeline-title">
                             Stockholm University
@@ -180,14 +180,12 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> February 2022 to Present
+                            <i className="fa fa-calendar" /> June 2018 to Present
                           </h6>
-                          <h4 className="timeline-title">MedEvolve | Senior Python Engineer</h4>
+                          <h4 className="timeline-title">Peiko | Senior Python Engineer</h4>
                           <p className="timeline-text">
-                            • Orchestrated collaborative efforts with Agile teams to conceptualize, design, and
-                              deploy innovative web applications across E-Commerce, Banking, and Healthcare
-                              sectors, resulting in a 40% boost in user engagement and a 25% increase in
-                              conversion rates.
+                            • Architected several successful projects of clients (E-Commerce Marketplace, Financial
+                              Loan Solution, eLearning, Healthcare)
                               <br></br>
                               <br></br>
                             • Guided and instructed junior developers on industry best practices for writing
@@ -203,9 +201,9 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> August 2020 to February 2022
+                            <i className="fa fa-calendar" /> June 2012 to February 2018
                           </h6>
-                          <h4 className="timeline-title">Qian | Full Stack Engineer</h4>
+                          <h4 className="timeline-title">Qian | Python Engineer</h4>
                           <p className="timeline-text">
                             • Built a serverless API using Node.js and AWS Lambda functions that connects a web
                               application to a third-party service, such as SendGrid, to send email or SMS
@@ -223,26 +221,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> March 2018 to August 2020
-                          </h6>
-                          <h4 className="timeline-title">InveSmart | Python Developer</h4>
-                          <p className="timeline-text">
-                            • Developed a robust content management system
-                            using Django, which successfully managed the
-                            workflow for a team of 20+ content creators.
-                            <br></br>
-                            <br></br>
-                            • Implemented a new scoring algorithm for
-                            educational assessments that increased the accuracy
-                            of results by 15%
-                            <br></br>
-                            ...
-                          </p>
-                        </div>
-                        <div className="timeline-item">
-                          <div className="circle-dot" />
-                          <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> August 2015 to March 2018
+                            <i className="fa fa-calendar" /> August 2009 to March 2012
                           </h6>
                           <h4 className="timeline-title">Toptal Freelancer | Full Stack Developer</h4>
                           <p className="timeline-text">

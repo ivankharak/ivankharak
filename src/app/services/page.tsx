@@ -38,7 +38,7 @@ const Service: NextPage = () => {
                   landscape.&quot;</p>
                   <br></br>
                 <h3>Mary T. Angelina</h3>
-                <h5>COO at InveSmart</h5>
+                <h5>Senior Software Engineer</h5>
               </div>
             </div>
             <div className="service-item padd-15">
