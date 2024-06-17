@@ -19,7 +19,7 @@ const About: NextPage = () => {
                   </h2>
                   <p>
                     Hi! My name is Ivan Kharakhashyan. I am a Python Full Stack Engineer, and I am
-                    very passionate and dedicated to my work. With 9 years
+                    very passionate and dedicated to my work. With 10 years
                     experience as a your expertise, I have acquired the skills and
                     knowledge necessary to make your project a success. I enjoy
                     every step of the design process, from discussion and
