@@ -47,7 +47,7 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Phone : <span>+46 091-4852991</span>
+                        Phone : <span>+46 31 753 77 59</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -229,7 +229,7 @@ const About: NextPage = () => {
                             CSS, JavaScript, Bootstrap
                             <br></br>
                             <br></br>
-                            • Improved the user experience by implementing infinite scrolling, and smooth animations  
+                            • Improved the user experience by implementing infinite scrolling, and smooth animations
                           </p>
                         </div>
                         {/* Timeline Item end */}
