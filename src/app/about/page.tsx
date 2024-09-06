@@ -42,7 +42,7 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Degree : <span>SSC</span>
+                        Degree : <span>BCS</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -182,7 +182,7 @@ const About: NextPage = () => {
                           <h6 className="timeline-date">
                             <i className="fa fa-calendar" /> June 2020 to Present
                           </h6>
-                          <h4 className="timeline-title">Peiko | Senior Python Engineer</h4>
+                          <h4 className="timeline-title">Fabius Labs | Senior Python Engineer</h4>
                           <p className="timeline-text">
                             • Architected several successful projects of clients (E-Commerce Marketplace, Financial
                               Loan Solution, eLearning, Healthcare)

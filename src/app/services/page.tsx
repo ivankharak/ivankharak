@@ -17,7 +17,7 @@ const Service: NextPage = () => {
                 <p>&quot;Comes up with great ideas and suggestions, in addition to the requested work. Highly recommend for anyone needing website work completed.&quot;</p>
                 <br></br>
                 <h3>Arsenij Pertsov</h3>
-                <h5>Tech Lead at Peiko</h5>
+                <h5>Tech Lead at Fabius Labs</h5>
               </div>
             </div>
             <div className="service-item padd-15">

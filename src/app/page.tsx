@@ -26,7 +26,7 @@ export default async function Home() {
               <a href="https://github.com/ivankharak" target="_blank">
                 <i className="fa fa-github" />
               </a>
-              <a href="https://join.skype.com/invite/rAQ2UROCQ49S" target="_blank">
+              <a href="https://join.skype.com/invite/yphXjARhy64Q" target="_blank">
                 <i className="fa fa-skype" />
               </a>
               {/* <a href="https://instagram.com/" target="_blank">
